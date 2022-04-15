@@ -1,0 +1,16 @@
+LAPORAN KEUANGAN 
+ Uang Saku Setiap Bulan : 500000
+ Pengeluaran Bulan 1  : 2000
+ Pengeluaran Bulan 2  : 1000
+ Pengeluaran Bulan 3  : 3000
+ Pengeluaran Bulan 4  : 1500
+ Pengeluaran Bulan 5  : 1000
+ Pengeluaran Bulan 6  : 2000
+ Pengeluaran Bulan 7  : 2500
+ Pengeluaran Bulan 8  : 3000
+ Pengeluaran Bulan 9  : 3500
+ Pengeluaran Bulan 10 : 5000
+ Pengeluaran Bulan 11 : 4500
+ Pengeluaran Bulan 12 : 20000
+ Total Pengeluaran      : 49000
+ Total Uang Tabungan    : 5951000
